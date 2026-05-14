@@ -21,7 +21,7 @@ In this project:
 - Different approaches are compared for performance
 
 Dataset used:
-- IMDB Movie Review Dataset(https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews )
+- IMDB Movie Review Dataset `https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews`
 
 ---
 
