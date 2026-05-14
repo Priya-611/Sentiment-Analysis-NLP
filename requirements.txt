@@ -1,0 +1,12 @@
+pandas
+numpy==1.26.4
+scikit-learn
+fasttext-wheel
+matplotlib
+seaborn
+jupyter
+notebook
+spacy 
+en-core-web-sm
+sklearn
+tensorflow
